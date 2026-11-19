@@ -2,7 +2,7 @@
     "qb": {
         "storageunit": {
             "version": "1.0.0",
-            "releaseDate": "2026-11-12",
+            "releaseDate": "2026-11-19",
             "critical": false,
             "changelog": []
         }
@@ -10,7 +10,7 @@
     "qbox": {
         "storageunit": {
             "version": "1.0.0",
-            "releaseDate": "2026-11-12",
+            "releaseDate": "2026-11-19",
             "critical": false,
             "changelog": []
         }
@@ -18,7 +18,7 @@
     "esx": {
         "storageunit": {
             "version": "1.0.0",
-            "releaseDate": "2026-11-12",
+            "releaseDate": "2026-11-19",
             "critical": false,
             "changelog": []
         }
